@@ -9,7 +9,7 @@ A passionate Software Developer dedicated to building scalable, high-performance
 
 - **Frontend:** Angular, TypeScript, HTML5, CSS3, JavaScript, Bootstrap.
 - **Backend:** C#, ASP.NET Core Web API, OOP, LINQ.
-- **Data & Storage:** SQL Server, Entity Framework Core.
+- **Data & Storage:** MS SQL Server, Entity Framework Core.
 - **Tools:** Git & GitHub, Postman, Software Design Patterns.
 
 ---
