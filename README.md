@@ -2,8 +2,8 @@
 ### 🚀 Full Stack .NET & Angular Developer
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=esraasalem25&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraasalem25&layout=compact&theme=tokyonight" height="170px" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=esraasalem25&cc=000&tc=7aa2f7&ic=7aa2f7&bc=1a1b26" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraasalem25&layout=compact&theme=tokyonight&hide_progress=true" height="170px" />
 </p>
 
 ---
