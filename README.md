@@ -30,10 +30,8 @@ A passionate Software Developer dedicated to building scalable, high-performance
 ---
 
 ### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=esraasalem25&show_icons=true&theme=radical" alt="Esraa's GitHub Stats" />
-</p>
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraasalem25&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Esraa's Stats](https://github-readme-stats.vercel.app/api?username=esraasalem25&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraasalem25&layout=compact&theme=radical&hide_border=true)
